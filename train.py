@@ -59,11 +59,7 @@ class RLTrainer:
         logger_setup(os.path.join(self.tp.result_path, self.conf.exp_name + '-log.txt'), loggers, logging_level)
         self.logger = logging.getLogger('RLTrainer')
 
-        if torch.cuda.is_available():
-            torch.cuda.set_device(self.conf.device)  # default 0
-            # cudnn.benchmark = True # Faster only for fixed runtime size
-            self.logger.info('Use CUDA Device ' + self.conf.device)
-            self.device = self.conf.device
+        self.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
         if self.conf.seed == -1:
             self.conf.seed = os.getpid() + int.from_bytes(os.urandom(4), byteorder="little") >> 1

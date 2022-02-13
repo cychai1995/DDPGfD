@@ -1,14 +1,13 @@
 ---
 train_config:
-  device: 'cuda:0'
   env_port: 19999
   seed: 1000
   exp_name: 's0'
   lr_rate: 0.0005
   w_decay: 0.00001
-  restore: true # Restore for training or evaluation
+  restore: false # Restore for training or evaluation
   tps: 1800 # Restored episode for evaluation
-  n_episode: 2000 # Total Training Episode
+  n_episode: 1800 # Total Training Episode
   batch_size: 4096 # Sample from PER
   update_step: 5 # Update per env step
   mse_loss: true # for Q loss
@@ -17,10 +16,6 @@ train_config:
   pretrain_demo: false
   pretrain_step: 10000
   pretrain_save_step: 2000
-  # Classification Margin Loss
-  clf_loss: false
-  clf_sample_n_per_act: 50
-  clf_margin: 1
 
   eval_episode: 20
   train_gui: false
@@ -43,7 +38,7 @@ agent_config:
 
 demo_config:
   load_demo_data: false
-  demo_dir: './data/demo.pkl'
-  demo_N: 43 # manually fill in
-  load_N: 43  # manually fill in
+  demo_dir: './data/demo'
+  demo_N: 0 # manually fill in
+  load_N: 0  # manually fill in
   prefix: 'demo_' # demo_i.pkl

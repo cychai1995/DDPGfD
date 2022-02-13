@@ -1,6 +1,5 @@
 ---
 train_config:
-  device: 'cuda:0'
   env_port: 19999
   seed: 1000
   exp_name: 's1'
@@ -17,10 +16,6 @@ train_config:
   pretrain_demo: true
   pretrain_step: 10000
   pretrain_save_step: 2000
-  # Classification Margin Loss
-  clf_loss: false
-  clf_sample_n_per_act: 50
-  clf_margin: 1
 
   eval_episode: 20
   train_gui: false

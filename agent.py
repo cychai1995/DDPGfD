@@ -15,7 +15,6 @@ class DDPGfDAgent(nn.Module):
         self.conf = conf
         self.device = device
         self.logger = logging.getLogger('DDPGfD')
-        self.device = self.conf.device
 
         self.actor_b = ActorNet(self.conf.state_dim, self.conf.action_dim, self.device)
         self.actor_t = ActorNet(self.conf.state_dim, self.conf.action_dim, self.device)

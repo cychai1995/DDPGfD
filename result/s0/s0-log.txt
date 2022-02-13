@@ -1,105 +1,83 @@
-[07-15 15:04:04] RLTrainer:INFO    : Use CUDA Device cuda:0
-[07-15 15:04:04] TP       :INFO    : Backup config/s0.yaml
-[07-15 15:04:05] RLTrainer:INFO    : Environment Loaded
-[07-15 15:04:06] RLTrainer:INFO    : Restore Progress,Episode=1801
-[07-15 15:04:06] RLTrainer:INFO    : No Demo Trajectory Loaded
-[07-15 15:04:09] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_0.pkl saved
-[07-15 15:04:11] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_1.pkl saved
-[07-15 15:04:14] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_2.pkl saved
-[07-15 15:04:16] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_3.pkl saved
-[07-15 15:04:18] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_4.pkl saved
-[07-15 15:04:21] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_5.pkl saved
-[07-15 15:04:23] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_6.pkl saved
-[07-15 15:04:26] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_7.pkl saved
-[07-15 15:04:28] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_8.pkl saved
-[07-15 15:04:30] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_9.pkl saved
-[07-15 15:04:33] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_10.pkl saved
-[07-15 15:04:35] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_11.pkl saved
-[07-15 15:04:37] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_12.pkl saved
-[07-15 15:04:40] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_13.pkl saved
-[07-15 15:04:42] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_14.pkl saved
-[07-15 15:04:45] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_15.pkl saved
-[07-15 15:04:47] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_16.pkl saved
-[07-15 15:04:49] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_17.pkl saved
-[07-15 15:04:52] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_18.pkl saved
-[07-15 15:04:54] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_19.pkl saved
-[07-15 15:04:56] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_20.pkl saved
-[07-15 15:04:59] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_21.pkl saved
-[07-15 15:05:01] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_22.pkl saved
-[07-15 15:05:04] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_23.pkl saved
-[07-15 15:05:06] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_24.pkl saved
-[07-15 15:05:08] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_25.pkl saved
-[07-15 15:05:11] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_26.pkl saved
-[07-15 15:05:13] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_27.pkl saved
-[07-15 15:05:15] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_28.pkl saved
-[07-15 15:05:18] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_29.pkl saved
-[07-15 15:05:20] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_30.pkl saved
-[07-15 15:05:23] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_31.pkl saved
-[07-15 15:05:25] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_32.pkl saved
-[07-15 15:05:27] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_33.pkl saved
-[07-15 15:05:30] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_34.pkl saved
-[07-15 15:05:32] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_35.pkl saved
-[07-15 15:05:35] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_36.pkl saved
-[07-15 15:05:37] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_37.pkl saved
-[07-15 15:05:39] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_38.pkl saved
-[07-15 15:05:42] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_39.pkl saved
-[07-15 15:05:44] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_40.pkl saved
-[07-15 15:05:47] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_41.pkl saved
-[07-15 15:05:49] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_42.pkl saved
-[07-15 15:05:51] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_43.pkl saved
-[07-15 15:05:54] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_44.pkl saved
-[07-15 15:05:56] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_45.pkl saved
-[07-15 15:05:59] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_46.pkl saved
-[07-15 15:06:01] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_47.pkl saved
-[07-15 15:06:03] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_48.pkl saved
-[07-15 15:06:06] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_49.pkl saved
-[07-15 15:06:08] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_50.pkl saved
-[07-15 15:06:10] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_51.pkl saved
-[07-15 15:06:13] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_52.pkl saved
-[07-15 15:06:15] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_53.pkl saved
-[07-15 15:06:18] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_54.pkl saved
-[07-15 15:06:20] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_55.pkl saved
-[07-15 15:06:22] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_56.pkl saved
-[07-15 15:06:25] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_57.pkl saved
-[07-15 15:06:27] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_58.pkl saved
-[07-15 15:06:30] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_59.pkl saved
-[07-15 15:06:32] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_60.pkl saved
-[07-15 15:06:34] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_61.pkl saved
-[07-15 15:06:37] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_62.pkl saved
-[07-15 15:06:39] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_63.pkl saved
-[07-15 15:06:41] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_64.pkl saved
-[07-15 15:06:44] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_65.pkl saved
-[07-15 15:06:46] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_66.pkl saved
-[07-15 15:06:49] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_67.pkl saved
-[07-15 15:06:51] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_68.pkl saved
-[07-15 15:06:53] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_69.pkl saved
-[07-15 15:06:56] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_70.pkl saved
-[07-15 15:06:58] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_71.pkl saved
-[07-15 15:07:01] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_72.pkl saved
-[07-15 15:07:03] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_73.pkl saved
-[07-15 15:07:05] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_74.pkl saved
-[07-15 15:07:08] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_75.pkl saved
-[07-15 15:07:10] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_76.pkl saved
-[07-15 15:07:12] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_77.pkl saved
-[07-15 15:07:15] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_78.pkl saved
-[07-15 15:07:17] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_79.pkl saved
-[07-15 15:07:20] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_80.pkl saved
-[07-15 15:07:22] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_81.pkl saved
-[07-15 15:07:24] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_82.pkl saved
-[07-15 15:07:27] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_83.pkl saved
-[07-15 15:07:29] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_84.pkl saved
-[07-15 15:07:32] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_85.pkl saved
-[07-15 15:07:34] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_86.pkl saved
-[07-15 15:07:36] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_87.pkl saved
-[07-15 15:07:39] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_88.pkl saved
-[07-15 15:07:41] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_89.pkl saved
-[07-15 15:07:43] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_90.pkl saved
-[07-15 15:07:46] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_91.pkl saved
-[07-15 15:07:48] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_92.pkl saved
-[07-15 15:07:51] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_93.pkl saved
-[07-15 15:07:53] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_94.pkl saved
-[07-15 15:07:55] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_95.pkl saved
-[07-15 15:07:58] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_96.pkl saved
-[07-15 15:08:00] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_97.pkl saved
-[07-15 15:08:03] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_98.pkl saved
-[07-15 15:08:05] RLTrainer:INFO    : Terminate: Record ./data/demo.pkl/demo_99.pkl saved
+[02-13 12:55:29] TP       :INFO    : Backup config/s0.yaml
+[02-13 12:55:30] RLTrainer:INFO    : Environment Loaded
+[02-13 12:55:30] RLTrainer:INFO    : No Demo Trajectory Loaded
+[02-13 12:55:33] DDPGfD   :DEBUG   : Done: All experience added
+[02-13 12:55:33] RLTrainer:INFO    : 0m 2s: Episode 1-Last:0m 2s: Actor_loss=0.04853963, Critic_loss=0.09635969, Step=50, Reward=-50.0, Demo_ratio=0.00000000
+[02-13 12:55:33] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 12:55:33] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 12:55:39] DDPGfD   :DEBUG   : Done: All experience added
+[02-13 12:55:39] RLTrainer:INFO    : 0m 8s: Episode 2-Last:0m 5s: Actor_loss=0.02461489, Critic_loss=0.04047024, Step=50, Reward=-50.0, Demo_ratio=0.00000000
+[02-13 12:55:39] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 12:55:39] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 12:55:49] DDPGfD   :DEBUG   : Done: All experience added
+[02-13 12:55:49] RLTrainer:INFO    : 0m 18s: Episode 3-Last:0m 10s: Actor_loss=0.01294064, Critic_loss=0.02039315, Step=50, Reward=-50.0, Demo_ratio=0.00000000
+[02-13 12:55:49] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 12:55:49] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 12:56:01] DDPGfD   :DEBUG   : Done: All experience added
+[02-13 12:56:01] RLTrainer:INFO    : 0m 30s: Episode 4-Last:0m 12s: Actor_loss=0.01117575, Critic_loss=0.01344653, Step=50, Reward=-50.0, Demo_ratio=0.00000000
+[02-13 12:56:01] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 12:56:01] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 12:56:23] DDPGfD   :DEBUG   : Done: All experience added
+[02-13 12:56:23] RLTrainer:INFO    : 0m 53s: Episode 5-Last:0m 22s: Actor_loss=0.01081645, Critic_loss=0.00931669, Step=50, Reward=-50.0, Demo_ratio=0.00000000
+[02-13 12:56:23] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 12:56:23] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 12:57:04] DDPGfD   :DEBUG   : Done: All experience added
+[02-13 12:57:06] RLTrainer:INFO    : 1m 35s: Episode 6-Last:0m 42s: Actor_loss=0.00986669, Critic_loss=0.00625493, Step=50, Reward=-50.0, Demo_ratio=0.00000000
+[02-13 12:57:06] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 12:57:06] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 12:59:18] DDPGfD   :DEBUG   : Done: All experience added
+[02-13 12:59:21] RLTrainer:INFO    : 3m 50s: Episode 7-Last:2m 14s: Actor_loss=0.00906865, Critic_loss=0.00430656, Step=50, Reward=-50.0, Demo_ratio=0.00000000
+[02-13 12:59:21] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 12:59:21] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 13:02:06] DDPGfD   :DEBUG   : Done: All experience added
+[02-13 13:02:10] RLTrainer:INFO    : 6m 39s: Episode 8-Last:2m 49s: Actor_loss=0.00840439, Critic_loss=0.00303329, Step=50, Reward=-50.0, Demo_ratio=0.00000000
+[02-13 13:02:10] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 13:02:10] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 13:05:25] DDPGfD   :DEBUG   : Done: All experience added
+[02-13 13:05:30] RLTrainer:INFO    : 9m 59s: Episode 9-Last:3m 19s: Actor_loss=0.00786131, Critic_loss=0.00214353, Step=50, Reward=-50.0, Demo_ratio=0.00000000
+[02-13 13:05:30] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 13:05:30] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 13:09:18] DDPGfD   :DEBUG   : Done: All experience added
+[02-13 13:09:23] RLTrainer:INFO    : 13m 52s: Episode 10-Last:3m 53s: Actor_loss=0.00738692, Critic_loss=0.00155829, Step=50, Reward=-50.0, Demo_ratio=0.00000000
+[02-13 13:09:23] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 13:09:23] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 13:13:42] DDPGfD   :DEBUG   : Done: All experience added
+[02-13 13:13:48] RLTrainer:INFO    : 18m 17s: Episode 11-Last:4m 24s: Actor_loss=0.00698670, Critic_loss=0.00112509, Step=50, Reward=-50.0, Demo_ratio=0.00000000
+[02-13 13:13:48] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 13:13:48] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 13:18:42] DDPGfD   :DEBUG   : Done: All experience added
+[02-13 13:18:48] RLTrainer:INFO    : 23m 18s: Episode 12-Last:5m 0s: Actor_loss=0.00661523, Critic_loss=0.00082441, Step=50, Reward=-50.0, Demo_ratio=0.00000000
+[02-13 13:18:48] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 13:18:48] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 13:23:52] DDPGfD   :DEBUG   : Done: All experience added
+[02-13 13:23:59] RLTrainer:INFO    : 28m 28s: Episode 13-Last:5m 10s: Actor_loss=0.00629022, Critic_loss=0.00060056, Step=50, Reward=-50.0, Demo_ratio=0.00000000
+[02-13 13:23:59] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 13:23:59] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 13:30:04] DDPGfD   :DEBUG   : Done: All experience added
+[02-13 13:30:12] RLTrainer:INFO    : 34m 41s: Episode 14-Last:6m 12s: Actor_loss=0.00587560, Critic_loss=0.00043080, Step=50, Reward=-50.0, Demo_ratio=0.00000000
+[02-13 13:30:12] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 13:30:12] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 13:36:05] DDPGfD   :DEBUG   : Done: All experience added
+[02-13 13:36:11] RLTrainer:INFO    : 40m 40s: Episode 15-Last:5m 58s: Actor_loss=0.00556342, Critic_loss=0.00031086, Step=50, Reward=-50.0, Demo_ratio=0.00000000
+[02-13 13:36:11] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 13:36:11] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 13:40:56] DDPGfD   :DEBUG   : Done: All experience added
+[02-13 13:41:02] RLTrainer:INFO    : 45m 31s: Episode 16-Last:4m 51s: Actor_loss=0.00534582, Critic_loss=0.00022942, Step=50, Reward=-50.0, Demo_ratio=0.00000000
+[02-13 13:41:02] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 13:41:02] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 13:44:16] DDPGfD   :DEBUG   : Done: All experience added
+[02-13 13:44:20] RLTrainer:INFO    : 48m 49s: Episode 17-Last:3m 17s: Actor_loss=0.00506692, Critic_loss=0.00017030, Step=50, Reward=-50.0, Demo_ratio=0.00000000
+[02-13 13:44:20] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 13:44:20] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 13:47:37] DDPGfD   :DEBUG   : Done: All experience added
+[02-13 13:47:41] RLTrainer:INFO    : 52m 11s: Episode 18-Last:3m 21s: Actor_loss=0.00479550, Critic_loss=0.00012770, Step=50, Reward=-50.0, Demo_ratio=0.00000000
+[02-13 13:47:41] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 13:47:41] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 13:51:17] DDPGfD   :DEBUG   : Done: All experience added
+[02-13 13:51:22] RLTrainer:INFO    : 55m 52s: Episode 19-Last:3m 40s: Actor_loss=0.00465988, Critic_loss=0.00010182, Step=50, Reward=-50.0, Demo_ratio=0.00000000
+[02-13 13:51:22] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 13:51:22] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 13:55:27] DDPGfD   :DEBUG   : Done: All experience added
+[02-13 13:55:32] RLTrainer:INFO    : 60m 1s: Episode 20-Last:4m 9s: Actor_loss=0.00445604, Critic_loss=0.00008840, Step=50, Reward=-50.0, Demo_ratio=0.00000000
+[02-13 13:55:32] DDPGfD   :DEBUG   : (Soft)Update target network
+[02-13 13:55:32] DDPGfD   :DEBUG   : (Soft)Update target network

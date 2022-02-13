@@ -1,6 +1,5 @@
 ---
 train_config:
-  device: 'cuda:0'
   env_port: 19999
   seed: 1000
   exp_name: 's1'
